@@ -7,6 +7,8 @@ Included are codes for a MATLAB implementation of the Boids model, the Cucker-Sm
 
 The Boids model implemented is a gross simplification of the one devised by Craig Reynolds (https://www.red3d.com/cwr/code/boids.lisp). It implements the three basic rules of Boids: Cohesion, Coalignment and Collision Avoidance, along with "soft" boundary conditions that ensure the boids stay in the prescribed square.
 
+![](Boids.gif)
+
 
 # Cucker-Smale Model
 
