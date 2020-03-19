@@ -32,6 +32,10 @@ In the following animation agents were uniformly randomly distributed
 
 ![](Images/CSAnimatedAugmented1reduced.gif)
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](Images/CSAnimatedAugmented1reduced.gif)  |  ![](Images/CSAnimatedAugmented1reduced.gif)
+
 
 # Augmented Cucker-Smale Model
 
