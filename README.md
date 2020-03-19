@@ -30,12 +30,14 @@ This is a MATLAB implementation of the discrete Cucker-Smale (CS) model, which c
 
 In the following animation agents were uniformly randomly distributed
 
-![](Images/CSAnimatedAugmented1reduced.gif)
-
 Visual Animation             |  Velocity Standard Deviation
 :-------------------------:|:-------------------------:
-![](Images/CSAnimatedAugmented1reduced.gif)  |  ![](Images/CSAnimatedGraph.gif)
+![](Images/CSAnimated.gif)  |  ![](Images/CSAnimatedGraph.gif)
 
 
 # Augmented Cucker-Smale Model
 
+A closer look at behaviour (without boundary conditions)
+<p align="center">
+<img src="Images/CSAnimatedAugmented1reduced.gif">
+</p>
