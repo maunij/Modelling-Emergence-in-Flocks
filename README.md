@@ -32,9 +32,9 @@ In the following animation agents were uniformly randomly distributed
 
 ![](Images/CSAnimatedAugmented1reduced.gif)
 
-Solarized dark             |  Solarized Ocean
+Visual Animation             |  Velocity Standard Deviation
 :-------------------------:|:-------------------------:
-![](Images/CSAnimatedAugmented1reduced.gif)  |  ![](Images/CSAnimatedAugmented1reduced.gif)
+![](Images/CSAnimatedAugmented1reduced.gif)  |  ![](Images/CSAnimatedGraph.gif)
 
 
 # Augmented Cucker-Smale Model
