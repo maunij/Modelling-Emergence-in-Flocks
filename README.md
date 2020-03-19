@@ -16,12 +16,12 @@ Higher cohesion:
 Higher collision avoidance:
 
 <p align="center">
-<img src="Images/BoidsStrongAvoidance.gif)">
+<img src="Images/BoidsStrongAvoidance.gif">
 </p>
 
 A closer look at behaviour (without boundary conditions)
 <p align="center">
-<img src="Images/BoidsZoom.gif)">
+<img src="Images/BoidsZoom.gif">
 </p>
 
 # Cucker-Smale Model
