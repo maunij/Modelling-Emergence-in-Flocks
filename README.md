@@ -9,6 +9,10 @@ The Boids model implemented is a gross simplification of the one devised by Crai
 
 Higher cohesion:
 
+<p align="center">
+<img src="Images/Boids.gif">
+</p>
+
 ![](Images/Boids.gif)
 
 Higher collision avoidance:
