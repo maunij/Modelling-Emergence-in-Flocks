@@ -30,7 +30,7 @@ This is a MATLAB implementation of the discrete Cucker-Smale (CS) model, which c
 
 In the following animation agents were uniformly randomly distributed
 
-![](/Images/CSAnimated 1.gif)
+![](Images/CSAnimatedAugmented1reduced.gif)
 
 
 # Augmented Cucker-Smale Model
