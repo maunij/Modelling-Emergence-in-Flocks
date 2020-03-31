@@ -40,7 +40,8 @@ MATLAB file is CuckerSmale_Algorithm.m. Similar behaviour is seen in the 7 neare
 
 # Augmented Cucker-Smale Model
 
-A closer look at behaviour (without boundary conditions)
+A modified version of the Cucker-Smale model that incorporates cohesion and collision avoidance.
+
 <p align="center">
 <img src="Images/CSAnimatedAugmented1reduced.gif">
 </p>
