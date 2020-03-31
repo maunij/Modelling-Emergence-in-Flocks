@@ -46,4 +46,4 @@ A modified version of the Cucker-Smale model that incorporates cohesion and coll
 <img src="Images/CSAnimatedAugmented1reduced.gif">
 </p>
 
-MATLAB file is AugmentedCuckerSmale.m
+MATLAB file is AugmentedCuckerSmale.m.
