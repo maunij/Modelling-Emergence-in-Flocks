@@ -30,7 +30,6 @@ MATLAB file is Boids.m.
 
 This is a MATLAB implementation of the discrete Cucker-Smale (CS) model, which can be seen as a first-order approximation of the continuous CS model.
 
-In the following animation agents were uniformly randomly distributed
 
 Visual Animation             |  Velocity Standard Deviation
 :-------------------------:|:-------------------------:
