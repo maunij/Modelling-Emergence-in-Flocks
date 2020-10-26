@@ -1,5 +1,5 @@
 # Modelling-Emergence-in-Flocks
-Supplementary Information for my MA4K8 Project.
+Supplementary Information for my master's project.
 
 Included are codes for a MATLAB implementation of the Boids model, the Cucker-Smale model & the augmented Cucker-Smale model. Below are animated quiver plots of the various models. All plots are done in R^2 but the code can easily be updated to work in any dimension (in particular, convergence results hold in the CS model regardless of dimension).
 
