@@ -24,8 +24,6 @@ A closer look at behaviour (without boundary conditions)
 <img src="Images/BoidsZoom.gif">
 </p>
 
-MATLAB file is Boids.m.
-
 # Cucker-Smale Model
 
 This is a MATLAB implementation of the discrete Cucker-Smale (CS) model, which can be seen as a first-order approximation of the continuous CS model.
@@ -35,7 +33,7 @@ Visual Animation             |  Velocity Standard Deviation
 :-------------------------:|:-------------------------:
 ![](Images/CSAnimated.gif)  |  ![](Images/CSAnimatedGraph.gif)
 
-MATLAB file is CuckerSmale_Algorithm.m. Similar behaviour is seen in the 7 nearest neighbour variation CuckerSmale7NearestNeighbours.m provided agents are generated close together.
+Similar behaviour is seen in the 7 nearest neighbour variation provided agents are generated close together.
 
 # Augmented Cucker-Smale Model
 
@@ -44,5 +42,3 @@ A modified version of the Cucker-Smale model that incorporates cohesion and coll
 <p align="center">
 <img src="Images/CSAnimatedAugmented1reduced.gif">
 </p>
-
-MATLAB file is AugmentedCuckerSmale.m.
